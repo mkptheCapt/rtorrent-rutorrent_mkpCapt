@@ -1,0 +1,21 @@
+# Hassas bilgiler
+.env
+.env.local
+passwd/
+data/
+downloads/
+*.log
+
+# IDE dosyaları
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
+.directory
+
+# Docker
+docker-compose.override.yml
