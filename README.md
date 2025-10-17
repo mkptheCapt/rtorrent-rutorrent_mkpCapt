@@ -100,6 +100,10 @@ sudo docker compose restart
 
 MIT License
 
+# ⚡ Ekran Görüntüsü
+
+<a href="https://ibb.co/GQVLgHNF"><img src="https://i.ibb.co/B2gx8nFw/image.png" alt="image" border="0"></a>
+
 ## 🤝 Katkıda Bulun
 
 Hataları bildir, fikirler öner: GitHub Issues'de yazabilirsin.
